@@ -34,7 +34,7 @@
 <summary><b>⚡Mis Proyectos</b></summary>
   <br/>
   <ul>
-    <li><a href="https://aristi.dev](https://cozy-quokka-3e9da0.netlify.app/">Instituto de Musica Página Web</a> </h1></li>
+    <li><a href="https://cozy-quokka-3e9da0.netlify.app/">Instituto de Musica Página Web</a> </h1></li>
     <li><a href="https://695459ca1e9971d41e564635--exquisite-yeot-d6b028.netlify.app/">Página Interactiva</a> </h1></li>
   </ul>
   <br/>
