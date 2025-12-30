@@ -32,11 +32,12 @@
 
 
 
-<summary><b>⚡Mis Proyectos</b></summary>
+<summary><b>⚡My Personal Projects</b></summary>
   <br/>
   <ul>
-    <li><a href="https://cozy-quokka-3e9da0.netlify.app/">Instituto de Musica Página Web</a> </h1></li>
-    <li><a href="https://695459ca1e9971d41e564635--exquisite-yeot-d6b028.netlify.app/">Página Interactiva</a> </h1></li>
+    <li><a href="https://cozy-quokka-3e9da0.netlify.app/">WEB Page Music Institute</a> </h1></li>
+    <li><a href="https://695459ca1e9971d41e564635--exquisite-yeot-d6b028.netlify.app/">Interactive WEB</a> </h1></li>
+    <li><a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git">GAME Project World Cup 2026</a></li>
   </ul>
   <br/>
   
@@ -45,5 +46,5 @@
 
 <p align="center">
 <a href="https://695459ca1e9971d41e564635--exquisite-yeot-d6b028.netlify.app/"><img src="https://img.shields.io/badge/-Logan%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="casalslogan@gmail.com><img src="https://img.shields.io/badge/casalslogan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://695459ca1e9971d41e564635--exquisite-yeot-d6b028.netlify.app/"><img src="https://img.shields.io/badge/casalslogan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
