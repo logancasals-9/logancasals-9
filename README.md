@@ -31,9 +31,10 @@
 
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+<summary><b>⚡Mis Proyectos</b></summary>
   <br/>
-   <a href="https://695459ca1e9971d41e564635--exquisite-yeot-d6b028.netlify.app/"><img alt="Página Interactiva" src="https://activity-graph.herokuapp.com/graph?username=logancasals-9&custom_title=Logan's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://cozy-quokka-3e9da0.netlify.app/"><img alt=".Instituto de Musica Página Web"</a>
+   <a href="https://695459ca1e9971d41e564635--exquisite-yeot-d6b028.netlify.app/"><img alt=".Página Interactiva"</a>
   <br/>
   
   
