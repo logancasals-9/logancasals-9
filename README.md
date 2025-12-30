@@ -45,5 +45,5 @@
 
 <p align="center">
 <a href="https://695459ca1e9971d41e564635--exquisite-yeot-d6b028.netlify.app/"><img src="https://img.shields.io/badge/-Logan%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<img> src="https://img.shields.io/badge/casalslogan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"<img/>
+<a href="casalslogan@gmail.com><img src="https://img.shields.io/badge/casalslogan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
