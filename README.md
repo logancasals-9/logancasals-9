@@ -35,7 +35,7 @@
   <br/>
   <ul>
     <li><a href="https://cozy-quokka-3e9da0.netlify.app/">WEB Page Music Institute</a> </h1></li>
-    <li><a href="https://695459ca1e9971d41e564635--exquisite-yeot-d6b028.netlify.app/">Interactive WEB</a> </h1></li>
+    <li><a href="https://github.com/logancasals-9/InteractivePage">Interactive WEB</a> </h1></li>
     <li><a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git">GAME Project World Cup 2026</a></li>
   </ul>
   <br/>
