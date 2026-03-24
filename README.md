@@ -44,6 +44,10 @@
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/logan-tobías-casals-a2b8793b8"><img src="https://img.shields.io/badge/-Logan%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><br>
-<a href="casalslogan@gmail.com"><img src="https://img.shields.io/badge/casalslogan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<a href="https://www.linkedin.com/in/logan-tobías-casals-a2b8793b8">
+  <img src="https://img.shields.io/badge/-Logan%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<br>
+<a href="mailto:casalslogan@gmail.com">
+  <img src="https://img.shields.io/badge/casalslogan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
