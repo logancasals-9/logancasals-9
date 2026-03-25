@@ -48,6 +48,6 @@
   <img src="https://img.shields.io/badge/-Logan%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <br>
-<a href="mailto:casalslogan@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=casalslogan@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/casalslogan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
