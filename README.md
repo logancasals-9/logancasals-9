@@ -37,7 +37,7 @@
     <li><a href="https://github.com/logancasals-9/gym-saas-documentation.git">Gym Login System SaaS</a> </h1></li>
     <li><a href="https://github.com/logancasals-9/Music-Institute-Landing.git">Music Institute Landing</a> </h1></li>
     <li><a href="https://github.com/logancasals-9/InteractivePage">Interactive WEB</a> </h1></li>
-    <li><a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git">GAME Project World Cup 2026</a></li>
+    <li><a href="https://github.com/logancasals-9/world-cup--2026-poo-wollok-game.git">GAME Project World Cup 2026</a></li>
   </ul>
   <br/>
   
